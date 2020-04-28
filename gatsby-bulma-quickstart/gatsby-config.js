@@ -1,9 +1,9 @@
 module.exports = {
 	siteMetadata: {
-		title: 'Gatsby Bulma Quickstart',
-		author: 'Aman Mittal',
-		imageUrl: 'https://i.imgur.com/Vz81GEl.png',
-		description: 'A Project to bootstrap your next Gatsby + Bulma site.',
+		title: 'Rolando Gonzalez',
+		author: 'Rolando Gonzalez',
+		imageUrl: 'https://i.imgur.com/QrHi3GH',
+		description: 'A place for sharing my favorite personal projects.',
 		keywords: `Web developer, Web, Developer, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Seo, Starter`,
 		twitter: 'https://twitter.com/amanhimself',
 		github: `https://github.com/amandeepmittal`,
@@ -32,7 +32,7 @@ module.exports = {
 				background_color: '#2980b9',
 				theme_color: '#2980b9',
 				display: 'standalone',
-				icon: 'src/images/gatsby-icon.png',
+				icon: 'src/images/rg-icon.png',
 				orientation: 'portrait'
 			}
 		},

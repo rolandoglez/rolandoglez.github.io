@@ -1,10 +1,6 @@
 import React from 'react';
 import {
 	FaHtml5,
-	FaReact,
-	FaMobileAlt,
-	FaRocket,
-	FaOsi
 } from 'react-icons/fa';
 
 import {
@@ -16,7 +12,6 @@ import {
 } from 'react-icons/gi';
 
 import './style.scss';
-import Emoji from './emoji';
 
 const Midsection = () => (
 	<div>
@@ -34,7 +29,7 @@ const Midsection = () => (
 								<div className="content">
 									<h1 className="title is-size-4">Unmanned Aircaft Systems (UAS)</h1>
 									<p className="subtitle is-size-5">
-										Design, build, and integrate remote-controlled industrial quadcopters for scientific research using Pixhawk and Ardupilot.
+										Design, build, and integrate remote-controlled industrial quadcopters for scientific research using Pixhawk and Ardupilot
 									</p>
 								</div>
 							</div>
@@ -53,7 +48,7 @@ const Midsection = () => (
 								<div className="content">
 									<h1 className="title is-size-4">Licensed FAA Part 107 Pilot</h1>
 									<p className="subtitle is-size-5">
-										Over 200+ hours flown as a flight test engineer and drone mapping pilot.
+										Over 200+ hours flown as a flight test engineer and drone mapping pilot
 									</p>
 								</div>
 							</div>
